@@ -38,8 +38,8 @@ src
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PatelKathan089/Web-Projects.git
-   cd todo-app
+   git clone https://github.com/shubham83/Todo-List.git
+   cd Todo-List
    ```
 2. Install dependencies:
 
@@ -61,7 +61,7 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ## Github Link
 
-[https://github.com/PatelKathan089/Web-Projects/tree/master/todoApp](https://github.com/PatelKathan089/Web-Projects/tree/master/todoApp)
+[https://github.com/shubham83/Todo-List](https://github.com/shubham83/Todo-List)
 
 ## License
 
